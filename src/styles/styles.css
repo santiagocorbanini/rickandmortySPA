@@ -345,6 +345,7 @@ img {
   
   .actual-page{
     color:#444452;
+    font-weight: bold;
   }
   
   @media screen and (max-width: 768px){

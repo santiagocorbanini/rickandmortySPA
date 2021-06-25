@@ -25,3 +25,7 @@ npm run start
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="vsc" width="140" height="70"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="140" height="70"/> </a> 
 </p>
+
+Screenshoots:
+
+[![Day 1 image](src/images/web-white.png)](https://rickandmorty-spa.netlify.app/)
