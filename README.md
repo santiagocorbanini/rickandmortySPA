@@ -18,8 +18,7 @@ npm run start
 ### Languages and Tools:
 
 <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="140" height="70"/> </a> 
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="140" height="70"/> </a>   
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="140" height="70"/> </a> 
+<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="140" height="70"/> </a>   <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="140" height="70"/> </a> 
 
 <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg" alt="babel" width="140" height="70"/> </a> 
 <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack" width="140" height="70"/> </a> 
