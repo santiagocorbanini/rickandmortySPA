@@ -3,7 +3,8 @@ const Header = () => {
     <div class="Header-main">
         <div class="Header-logo">
                 <a href="#">
-                    <img src="src/images/rm-logo.png">
+                    <img class="white-image" src="src/images/white-logo.png">
+                    <img class="dark-image" src="src/images/dark-logo.png">
                 </a>
         </div>
         <div class="Header-nav">
